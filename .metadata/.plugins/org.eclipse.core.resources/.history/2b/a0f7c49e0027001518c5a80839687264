@@ -1,0 +1,5 @@
+@CHARSET "UTF-8";
+
+#example1 {
+    background: red;
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.acme.order.customer.Customer"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.acme.order.customer.CustomerRepository"/>
+<fullyQualifiedTypeName name="com.acme.order.pizza.PizzaOrderService"/>
+<fullyQualifiedTypeName name="com.acme.order.pizza.PizzaOrderServiceImpl"/>
+<fullyQualifiedTypeName name="com.acme.order.pizza.PizzaType"/>
+<fullyQualifiedTypeName name="com.acme.order.pizza.PizzaOrder"/>
+<fullyQualifiedTypeName name="com.acme.order.pizza.OrderRepository"/>
+<fullyQualifiedTypeName name="com.google.common.collect.Lists"/>
+<fullyQualifiedTypeName name="lombok.Data"/>
+<fullyQualifiedTypeName name="org.hibernate.annotations.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="com.acme.order.customer.CustomerTypeRepository"/>
+<fullyQualifiedTypeName name="com.acme.order.customer.CustomerType"/>
+<fullyQualifiedTypeName name="org.jboss.logging.Param"/>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+<fullyQualifiedTypeName name="org.springframework.data.repository.query.Param"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.security.SecurityProperties.User"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

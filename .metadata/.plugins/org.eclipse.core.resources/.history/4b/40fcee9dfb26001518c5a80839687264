@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<form>
+		<fieldset>
+			<legend>Customer:</legend>
+			Name: <input name ="name" type="text"><br> Surname <input type="text"><br>
+			Email: <input name ="email" type="text"><br>
+			Type: <input type="radio" name="group1" value="Indivdual"> Indivdual
+					<input type="radio" name="group1" value="Bussiness"> Bussiness
+		</fieldset>
+
+		<fieldset>
+			<legend>Pizza</legend>
+			Name: <input name="pizzaName" type="text"><br>
+			 Type: <select name="decision">
+				<option selected>BIG
+				<option>SMALL
+				<option>NORMAL
+				<option>LARGE
+			</select>
+		</fieldset>
+		<fieldset>
+			<legend>Suggested delivery date</legend>
+			<form>
+				<input type="datetime-local" value="2000-01-01T00:00:00" />
+			</form>
+		</fieldset>
+		<fieldset>
+			<legend>Additional data</legend>
+			<textarea name="nazwa" cols="40" rows="10">
+				
+			</textarea>
+		</fieldset>
+	</form>
+		<form action="OrdersList.html">
+		<input type="submit" value="Order Me!">
+	</form>
+
+
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<form>
+		<fieldset>
+			<legend>Customer:</legend>
+			Name: <input type="text"><br> Surname <input type="text"><br>
+			Email <input type="text"><br> Type <input
+				type="checkbox" name="vehicle" value="Bike">Individual <input
+				type="checkbox" name="vehicle" value="Car">Bussiness
+		</fieldset>
+
+		<fieldset>
+			<legend>Pizza</legend>
+			Name: <input type="text"><br> Type: <select
+				name="decision">
+				<option selected>Plan 1
+				<option>Plan 2
+				<option>Plan 3
+				<option>Plan 4
+				<option>Plan 5
+			</select>
+		</fieldset>
+		<fieldset>
+			<legend>Suggested delivery date</legend>
+			Name: <input type="text"><br> Surname <input type="text"><br>
+		</fieldset>
+		<fieldset>
+			<legend>Additional data</legend>
+			<textarea rows="2" cols="20" name="usrtxt" wrap="hard">
+				At W3Schools you will find free Web-building tutorials.
+			</textarea>
+		</fieldset>
+	</form>
+
+
+</body>
+</html>

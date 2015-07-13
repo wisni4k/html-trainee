@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+C:\Users\Comarch\Documents\JPATrainee\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+13293880.index
+1523351085.index
+2942261574.index
+122431367.index
+2433730739.index
+3485455345.index
+2561720321.index

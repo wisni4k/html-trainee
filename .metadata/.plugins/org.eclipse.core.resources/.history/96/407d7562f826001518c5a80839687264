@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<form>
+		<fieldset>
+			<legend>Customer:</legend>
+			Name: <input type="text"><br> Surname <input type="text"><br>
+			Email <input type="text"><br> Type <input
+				type="checkbox" name="vehicle" value="Bike">Individual <input
+				type="checkbox" name="vehicle" value="Car">Bussiness
+		</fieldset>
+
+		<fieldset>
+			<legend>Pizza</legend>
+			Name: <input type="text"><br> Type: <select
+				name="decision">
+				<option selected>Plan 1
+				<option>Plan 2
+				<option>Plan 3
+				<option>Plan 4
+				<option>Plan 5
+			</select>
+		</fieldset>
+		<fieldset>
+			<legend>Suggested delivery date</legend>
+			<form>
+				<input name="w" type="week"> <input type="submit"
+					value="Wyślij">
+			</form>
+		</fieldset>
+		<fieldset>
+			<legend>Additional data</legend>
+			<textarea name="nazwa" cols="40" rows="10">
+				
+			</textarea>
+		</fieldset>
+	</form>
+
+
+</body>
+</html>
